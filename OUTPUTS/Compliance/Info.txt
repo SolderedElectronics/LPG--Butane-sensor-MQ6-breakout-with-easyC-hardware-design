@@ -2,4 +2,4 @@ SKU: 333120
 Full product name: LPG, Butane sensor MQ6 breakout with easyC
 Country of origin: Croatia
 HS tariff code: 84229090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388666409
